@@ -30,5 +30,6 @@
 
 
 <h4>Current study:</h4>
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
